@@ -1,6 +1,6 @@
 # my_crypto_wallet
 
-A new Flutter project.
+Crypto Wallet App is decentralized crypto wallet for managing multiple crypto account. The app was created using flutter and Hive DB as the database.
 
 ## Getting Started
 
