@@ -2,6 +2,9 @@
 
 Crypto Wallet App is decentralized crypto wallet for managing multiple crypto account. The app was created using flutter and Hive DB as the database.
 
+![20220830_084848](https://user-images.githubusercontent.com/79043210/203860199-1d47a281-2749-41ac-8eb2-b737c8435206.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
