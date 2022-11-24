@@ -7,12 +7,10 @@ Below are screenshots of some of the app's functionalities;
 ![Screenshot_20221124-203834](https://user-images.githubusercontent.com/79043210/203861498-8f6f5a08-dea6-4d58-86b2-863bdfb20cf1.jpg)
 ![Screenshot_20221124-203845](https://user-images.githubusercontent.com/79043210/203862421-2b5c74f2-1b42-4c11-9d03-a04c72732107.jpg)
 ![Screenshot_20221124-203903](https://user-images.githubusercontent.com/79043210/203862458-5c49e695-ae6e-45c4-a575-e74cf5e802f4.jpg)
-
-![Screenshot_20221124-204024](https://user-images.githubusercontent.com/79043210/203862024-ad690e47-6dc9-4c6e-bcdd-f8f94c14fc49.jpg)
-
 ![Screenshot_20221124-204224](https://user-images.githubusercontent.com/79043210/203862367-bb227f9e-4565-498a-aeeb-fb09f1edf1d8.jpg)
-![Screenshot_20221124-203954](https://user-images.githubusercontent.com/79043210/203862377-924eb614-cf3b-4e11-ad90-64560e6f3fd4.jpg)
+![Screenshot_20221124-204024](https://user-images.githubusercontent.com/79043210/203862024-ad690e47-6dc9-4c6e-bcdd-f8f94c14fc49.jpg)
 ![Screenshot_20221124-204328](https://user-images.githubusercontent.com/79043210/203862386-d2e0ff9a-25d4-4ec6-9b04-468e231fc3a6.jpg)
+![Screenshot_20221124-203954](https://user-images.githubusercontent.com/79043210/203862377-924eb614-cf3b-4e11-ad90-64560e6f3fd4.jpg)
 ![Screenshot_20221124-203834](https://user-images.githubusercontent.com/79043210/203862390-eed86125-2cea-4d9f-b999-0cabfb352a97.jpg)
 ![Screenshot_20221124-204251](https://user-images.githubusercontent.com/79043210/203862397-79ae9600-8732-41f8-a62e-ba96c69e5c42.jpg)
 ![Screenshot_20221124-203920](https://user-images.githubusercontent.com/79043210/203862431-0c23e66a-b2c2-47b1-9744-b8292a607220.jpg)
